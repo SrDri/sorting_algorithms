@@ -8,9 +8,9 @@
 
 void bubble_sort(int *array, size_t size)
 {
-	unsigned int i;
-	unsigned int num_ord = 0;
-	unsigned int aux = 0;
+	size_t i;
+	size_t num_ord = 0;
+	int aux;
 
 	if (array != NULL)
 	{
@@ -18,7 +18,7 @@ void bubble_sort(int *array, size_t size)
 		{
 			for (i = 0, num_ord = 0; i < size; i++)
 			{
-				if (array[i] < array[i + 1])
+				if (array[i] > array[i + 1])
 				{
 					aux = array[i];
 					array[i] = array[i + 1];
@@ -30,4 +30,5 @@ void bubble_sort(int *array, size_t size)
 			}
 		}
 	}
+
 }
