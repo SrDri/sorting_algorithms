@@ -22,8 +22,8 @@ void selection_sort(int *array, size_t size)
 	{
 		num_min = i;
 		siguien = i + 1;
-		j = siguien;
-		for (j; j < size; j++)
+		
+		for (j = siguien; j < size; j++)
 		{
 			if (array[num_min] > array[j])
 			{
