@@ -1,4 +1,5 @@
 ## 0x1B. C - Sorting algorithms & Big O
+![readme](https://user-images.githubusercontent.com/71143825/122119345-ae976500-cdee-11eb-8e6f-7f552e78a883.png)
 ---
 ### Background Context
 This project is meant to be done by groups of two students. Each group of two should pair program for at least the mandatory part.
