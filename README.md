@@ -43,3 +43,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### [3. Quick sort](./3-quick_sort.c)
 * Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
+
+---
+
+### Author 
+* **Luz Adriana Baza** [luzbaza](https://github.com/luzbaza)
