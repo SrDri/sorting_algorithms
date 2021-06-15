@@ -47,4 +47,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ---
 
 ### Author 
-* **Luz Adriana Baza** [luzbaza](https://github.com/luzbaza)
+* **Luz Adriana Baza** [luzbaza]-(https://github.com/luzbaza)
+* **Juan Carabali** [SrDri]-(https://github.com/SrDri)
