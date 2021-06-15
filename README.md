@@ -1,5 +1,5 @@
 ## 0x1B. C - Sorting algorithms & Big O
-
+---
 ### Background Context
 This project is meant to be done by groups of two students. Each group of two should pair program for at least the mandatory part.
 
@@ -11,7 +11,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * What is the Big O notation, and how to evaluate the time complexity of an algorithm
 * How to select the best sorting algorithm for a given input
 * What is a stable sorting algorithm
-
+---
 ### Requirements
 ### General
 * Allowed editors: vi, vim, emacs
@@ -28,3 +28,17 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * Don’t forget to push your header file
 * All your header files should be include guarded
 * A list/array does not need to be sorted if its size is less than 2.
+
+---
+
+### [0. Bubble sort](./0-bubble_sort.c)
+* Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
+
+### [1. Insertion sort](./1-insertion_sort_list.c)
+* Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
+
+### [2. Selection sort](./2-selection_sort.c)
+* Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
+
+### [Quick sort](./3-quick_sort.c)
+* Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
